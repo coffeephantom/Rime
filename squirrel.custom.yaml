@@ -1,0 +1,14 @@
+patch:
+  style/horizontal: true
+  style/font_point: 15
+  style/color_scheme: dark_temple
+  app_options/com.apple.dt.Xcode:
+    ascii_mode: true
+  app_options/com.googlecode.iterm2:
+    ascii_mode: true
+  app_options/com.sublimetext.3:
+    ascii_mode: true
+  app_options/com.jetbrains.pycharm:
+    ascii_mode: true
+  app_options/com.apple.Terminal:
+    ascii_mode: true
